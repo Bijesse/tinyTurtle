@@ -105,7 +105,7 @@ Next we are going to show which direction the turtle is pointing and turn it 90 
 ```
 ![Image](http://i.imgur.com/cvzfj9c.png)
 
-Now that you have moved the Tiny Turtle, Let's try and make it move in a square. 
+Now that you have moved the Tiny Turtle, Let's try and make it move in a square. From here the teacher may work with the students on creating this square or the teacher may elect to allow students to solve on their own. 
 
 ### Independent practice ("You do")
 Great! The Tiny Turtle can now move in a square but there is only one problem. This code is too long. In order to clean this code up we are going to create a **function.** 
